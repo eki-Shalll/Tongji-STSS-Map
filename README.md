@@ -14,7 +14,7 @@ The Tongji STSS-Map dataset is constructed using a DJI Matrice 300 RTK drone equ
 
 ### Intended Use
 This dataset can be used for:
-- Benchmarking mapping systems
+- Benchmarking real-time aerial mapping systems
 - Comparative analysis of Ground Control Points
 - Supporting future research and development in geospatial technologies
 

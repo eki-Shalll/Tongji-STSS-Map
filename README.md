@@ -20,10 +20,6 @@ The Tongji STSS-Map dataset is constructed using a DJI Matrice 300 RTK drone equ
 - **B/H ratio (front)**: 0.2  
 - **Shooting Mode**: Time Interval
 
-**Note**: The base-to-height ratio (B/H) for both front and side is set to 0.2 because the task involves UAVs with equal exposure times, 
-
-This explanation should help clarify the reasoning behind the base-to-height ratio settings.
-
 ### Intended Use
 This dataset can be used for:
 - Benchmarking real-time aerial mapping systems
